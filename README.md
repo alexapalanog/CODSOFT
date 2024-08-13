@@ -1,5 +1,5 @@
 # CODSOFT
-#### This folder consist my works for CODSOFT
+#### This folder consist of my works for CODSOFT
 
 ## Level 1
 <ol>
