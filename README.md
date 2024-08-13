@@ -2,16 +2,20 @@
 #### This folder consist my works for CODSOFT
 
 ## Level 1
-<ul>
+<ol>
 <li> Portfolio </li>
 <li> Landing Page</li>
 <li> Calculator </li>
-</ul>
+</ol>
 
 ## Level 2
-### Job Board
-### Online Quiz Maker
+<ol>
+<li> Job Board </li>
+<li> Online Quiz Maker </li>
+</ol>
 
 ## Level 3
-### E-Commerce Website
-### Project Management Tool
+<ol>
+<li> E-Commerce Website </li>
+<li> Project Management Tool </li>
+</ol>
