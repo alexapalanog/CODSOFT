@@ -2,9 +2,11 @@
 #### This folder consist my works for CODSOFT
 
 ## Level 1
-### Portfolio
-### Landing Page
-### Calculator
+<ul>
+<li> Portfolio </li>
+<li> Landing Page</li>
+<li> Calculator </li>
+</ul>
 
 ## Level 2
 ### Job Board
